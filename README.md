@@ -10,6 +10,7 @@
 ## GitHub Repos
 
 - [flowerinthenight/golang-monorepo](https://github.com/flowerinthenight/golang-monorepo)
+- [yuchanns/gobyexample](https://github.com/yuchanns/gobyexample)
 
 ## Multi-Module
 
