@@ -2,6 +2,7 @@
 
 ## Related Blogs
 
+- [golang-multimodule-monorepo-tutorial](https://irilivibi.medium.com/golang-multimodule-monorepo-tutorial-3f5cf10e9b9a)
 - [catching-up-with-the-world-go-modules-in-a-monorepo](https://medium.com/compass-true-north/catching-up-with-the-world-go-modules-in-a-monorepo-c3d1393d6024)
 - [go-module-a-guide-for-monorepos-part-1](https://engineering.grab.com/go-module-a-guide-for-monorepos-part-1)
 - [go-module-a-guide-for-monorepos-part-2](https://engineering.grab.com/go-module-a-guide-for-monorepos-part-2)
@@ -9,6 +10,7 @@
 
 ## GitHub Repos
 
+- [ianhecker/bakery](https://github.com/ianhecker/bakery)
 - [flowerinthenight/golang-monorepo](https://github.com/flowerinthenight/golang-monorepo)
 - [yuchanns/gobyexample](https://github.com/yuchanns/gobyexample)
 
